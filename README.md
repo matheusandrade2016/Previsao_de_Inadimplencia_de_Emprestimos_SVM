@@ -13,13 +13,13 @@ Previsão de inadimplência de empréstimos com Algoritmo SVM em Linguagem R
 
 # Funcionalidades:
 
-- Implementação do algoritmo Naive Bayes para classificação de clientes em "inadimplentes" ou "adimplentes".
+- Implementação do algoritmo SVM (Support vector machine) para classificação de clientes em "inadimplentes" ou "adimplentes".
 - Cálculo de métricas de desempenho como acurácia, precisão, sensibilidade e especificidade.
 - Visualização da matriz de confusão para avaliar a performance do modelo.
 
 # Tecnologias:
 - Linguagem de programação R.
-- Biblioteca e1071 para o algoritmo Naive Bayes.
+- Biblioteca e1071 para o algoritmo SVM.
 - Biblioteca caret para avaliação do modelo.
 
   
@@ -31,6 +31,6 @@ Previsão de inadimplência de empréstimos com Algoritmo SVM em Linguagem R
 
 - Carregar a base de dados com informações dos clientes e seus empréstimos.
 - Dividir a base em conjuntos de treino e teste.
-- Treinar o modelo Naive Bayes.
+- Treinar o modelo SVM.
 - Fazer previsões para novos clientes.
 - Avaliar o desempenho do modelo com as métricas e a matriz de confusão.
