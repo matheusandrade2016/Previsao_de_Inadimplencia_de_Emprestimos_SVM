@@ -1,5 +1,5 @@
-# Previsão de Inadimplência de Empréstimos 
-Previsão de inadimplência de empréstimos com Algoritmo Naive Bayes em Linguagem R
+# Previsão de Inadimplência de Empréstimos Com Algoritmo SVM (Support Vector Machine)
+Previsão de inadimplência de empréstimos com Algoritmo SVM em Linguagem R
 
 # Descrição:
 
