@@ -3,7 +3,7 @@ Previsão de inadimplência de empréstimos com Algoritmo SVM em Linguagem R
 
 # Descrição:
 
-**Este projeto implementa um modelo para prever a inadimplência de empréstimos utilizando o algoritmo Naive Bayes.**
+**Este projeto implementa um modelo para prever a inadimplência de empréstimos utilizando o algoritmo SVM (Support Vector Machine).**
 
 # Objetivo:
 
